@@ -1,4 +1,4 @@
-#!C:\Users\beeku\Desktop\carzone-project\env\Scripts\python.exe
+#!c:\users\beeku\desktop\carzone-project\env\scripts\python.exe
 from django.core import management
 
 if __name__ == "__main__":
